@@ -1,0 +1,10 @@
+===== PHISHING ANALYSIS REPORT =====
+Time: 2026-04-25 21:04:40.087742
+Sender: hello@gmail.com
+Risk Score: 0
+Result: Safe ✅
+
+Reasons:
+- No suspicious indicators found.
+
+
