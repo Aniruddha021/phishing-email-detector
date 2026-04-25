@@ -1,5 +1,19 @@
 # Phishing Email Detector V4
 
+## Screenshots
+
+### Main Dashboard
+
+![Main Dashboard](images/home.png)
+
+### Scan Results
+
+![Scan Results](images/result.png1)
+
+### Suspicious Email Detection
+
+![Alert](images/alert.png)
+
 A real-time cybersecurity tool built with Python that connects to Gmail using the Gmail API, scans inbox emails, and detects suspicious phishing indicators using automated threat analysis.
 
 ---
